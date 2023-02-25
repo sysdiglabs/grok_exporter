@@ -74,19 +74,17 @@ github.com/rcrowley/go-metrics
 # github.com/sirupsen/logrus v1.6.0
 ## explicit
 github.com/sirupsen/logrus
-# golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a
-## explicit
+# golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 golang.org/x/crypto/md4
 golang.org/x/crypto/pbkdf2
 # golang.org/x/exp v0.0.0-20200917184745-18d7dbdd5567
 ## explicit
 golang.org/x/exp/winfsnotify
-# golang.org/x/net v0.0.0-20200904194848-62affa334b73
+# golang.org/x/net v0.7.0
 ## explicit
 golang.org/x/net/internal/socks
 golang.org/x/net/proxy
-# golang.org/x/sys v0.0.0-20200918174421-af09f7315aff
-## explicit
+# golang.org/x/sys v0.5.0
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
