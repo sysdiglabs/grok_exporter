@@ -25,6 +25,6 @@ jobs:
         job_params: |
           {
             "DRY_RUN": "false",
-            "SCRATCH": "true",
+            "SCRATCH": "false",
             "EXPORTER": "grok-exporter"
           }
