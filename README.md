@@ -1,3 +1,15 @@
+## ⚠️ Repository Archived - No Longer Maintained
+
+Notice: This repository is no longer actively maintained by Sysdig.
+
+As of 17th June 2024, we will not be providing any further updates, bug fixes, or support for this project. Instead of forking this repository, we recommend using the original repository from which this project was forked: [GROK_EXPORTER](https://github.com/prometheus/jmx_exporter).
+
+We have transitioned to using the Docker image for this Prometheus exporter, which is based on the original repository. You can find more information and the Docker Image here: [Docker Image Link](https://hub.docker.com/r/palobo/grok_exporter).
+
+We appreciate the community's contributions and support over the lifespan of this project.
+
+Thank you for your understanding.
+
 [![Build Status](https://travis-ci.org/fstab/grok_exporter.svg?branch=master)](https://travis-ci.org/fstab/grok_exporter) [![Build status](https://ci.appveyor.com/api/projects/status/d8aq0pa3yfoapd69?svg=true)](https://ci.appveyor.com/project/fstab/grok-exporter) [![Coverage Status](https://coveralls.io/repos/github/fstab/grok_exporter/badge.svg?branch=master)](https://coveralls.io/github/fstab/grok_exporter?branch=master)
 
 ![grok_exporter](docs/logo.svg)
