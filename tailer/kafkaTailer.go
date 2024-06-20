@@ -4,7 +4,7 @@ import (
 	ctx "context"
 	"sync"
 
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 	configuration "github.com/fstab/grok_exporter/config/v3"
 	"github.com/fstab/grok_exporter/tailer/fswatcher"
 	"github.com/sirupsen/logrus"
